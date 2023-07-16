@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1689486402127,
+      "tag": "0000_magenta_harpoon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1689486526230,
+      "tag": "0001_sturdy_lady_vermin",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1689486576221,
+      "tag": "0002_white_madame_masque",
+      "breakpoints": true
+    }
+  ]
+}
